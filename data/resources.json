@@ -37,7 +37,7 @@
     }, {
         "labels": ["addon"],
         "title": "BetterLight",
-        "text": "Ports the smooth lighting engine out of the Beta 1.2_02",
+        "text": "Ports the smooth lighting engine out of the Beta 1.2_02 Minecraft version",
         "url": "https://github.com/LO6AN/MC-Addons/raw/main/NSSS/1.1.11/1.1.11_111%20BetterLight.zip",
         "image": "assets/cards/better-light.png"
     }, {
@@ -46,5 +46,17 @@
         "text": "Port of the FVDisco oCd texture pack by gamerman1202",
         "url": "https://cdn.discordapp.com/attachments/724411799067295856/889029675647651890/oCdpack.zip",
         "image": "assets/cards/ocd-pack.png"
+    }, {
+        "labels": ["texturepack"],
+        "title": "Faithful NSSS Pack",
+        "text": "Port of the Vattic Faithful texture pack by Vita",
+        "url": "https://cdn.discordapp.com/attachments/734163557721047100/1005845867435143269/Faithful_for_NSSS.zip",
+        "image": "assets/cards/faithful-nsss-pack.png"
+     }, {
+        "labels": ["texturepack"],
+        "title": "Spring Pack",
+        "text": "Every day is Spring with this texture pack by Vita",
+        "url": "https://cdn.discordapp.com/attachments/734163557721047100/1008066043819864198/Spring.zip",
+        "image": "assets/cards/spring-pack.png"
     }]
 }
