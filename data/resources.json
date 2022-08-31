@@ -22,34 +22,29 @@
         "text": "Complete 1.9 skin backport with additional character customization features",
         "url": "https://ears.unascribed.com/",
         "image": "assets/cards/ears.png",
-        /* "version": "1.1.11" */
     }, {
         "labels": ["addon"],
         "title": "Fragile Mode",
         "text": "Half heart of health, modified UI; days survived tracker on death screen",
         "url": "https://github.com/LO6AN/MC-Addons/raw/main/NSSS/1.1.11/LilypadQA%20Fragile%20Mode%20%5BNSSS%201.1.11_111%5D.zip",
         "image": "assets/cards/fragile-mode.png",
-        /* "version": "1.1.11" */
     }, {
         "labels": ["addon"],
         "title": "Click Mining Fix",
         "text": "Removes the delay between breaking blocks when holding your mouse down",
         "url": "https://www.mediafire.com/file/j8ftfd7w8gggl5e/Click_Mining_Fix_for_NSSS_a1.1.11_10.zip/file",
         "image": "assets/cards/click-mining-fix.png",
-        /* "version": "1.1.11" */
     }, {
         "labels": ["addon"],
         "title": "BetterLight",
         "text": "Ports the smooth lighting engine out of the Beta 1.2_02",
         "url": "https://github.com/LO6AN/MC-Addons/raw/main/NSSS/1.1.11/1.1.11_111%20BetterLight.zip",
         "image": "assets/cards/better-light.png",
-        /* "version": "1.1.11", "1.1.10" */
     }, {
         "labels": ["texturepack"],
         "title": "oCd Pack",
         "text": "Port of the FVDisco oCd texture pack by gamerman1202",
         "url": "https://cdn.discordapp.com/attachments/724411799067295856/889029675647651890/oCdpack.zip",
         "image": "assets/cards/ocd-pack.png",
-        /* "version": "1.1.11", "1.1.10" */
     }]
 }
