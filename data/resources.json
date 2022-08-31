@@ -1,0 +1,26 @@
+{
+    "labels": {
+        "texturepack": {
+            "display": "Texture Pack",
+            "label_color": "rgb(255, 215, 0)",
+            "text_color": "rgb(255, 255, 255)"
+        },
+        "addon": {
+            "display": "Addon",
+            "label_color": "rgb(40, 167, 69)",
+            "text_color": "rgb(255, 255, 255)"
+        },
+        "world": {
+            "display": "World",
+            "label_color": "grey",
+            "text_color": ""
+        }
+    },
+    "items": [{
+        "labels": [addon],
+        "title": "Ears",
+        "text": "Complete 1.9 skin backport with additional character customization features",
+        "url": "https://ears.unascribed.com/",
+        "image": "assets/cards/ears.png"
+    }]
+}
