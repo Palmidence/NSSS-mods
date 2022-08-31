@@ -21,6 +21,7 @@
         "title": "Ears",
         "text": "Complete 1.9 skin backport with additional character customization features",
         "url": "https://ears.unascribed.com/",
-        "image": "assets/cards/ears.png"
+        "image": "assets/cards/ears.png",
+        "version": "1.1.11"
     }]
 }
