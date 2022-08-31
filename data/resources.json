@@ -17,7 +17,7 @@
         }
     },
     "items": [{
-        "labels": [addon],
+        "labels": ["addon"],
         "title": "Ears",
         "text": "Complete 1.9 skin backport with additional character customization features",
         "url": "https://ears.unascribed.com/",
