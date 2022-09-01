@@ -44,7 +44,7 @@
         "labels": ["addon"],
         "title": "LilypadQA Creative Menu",
         "text": "ports the block menu from LilypadQA to NSSS",
-        "url": "https://github.com/LO6AN/MC-Addons/raw/main/NSSS/1.1.11/1.1.11_111%20BetterLight.zip",
+        "url": "https://cdn.discordapp.com/attachments/734163557721047100/987021825122922526/lilypadqa_creative_block_menu.zip",
         "image": "assets/cards/creative-menu.png"
     }, {
         "labels": ["texturepack"],
@@ -58,7 +58,7 @@
         "text": "Port of the Vattic Faithful texture pack by Vita",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/1005845867435143269/Faithful_for_NSSS.zip",
         "image": "assets/cards/faithful-nsss-pack.png"
-     }, {
+    }, {
         "labels": ["texturepack"],
         "title": "Spring Pack",
         "text": "Every day is Spring with this texture pack by Vita",
