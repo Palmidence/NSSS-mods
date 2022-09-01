@@ -60,7 +60,7 @@
         "author": "jonkadelic"
     }, {
         "labels": ["addon"],
-        "title": "NoVersionText",
+        "title": "No Version Text",
         "text": "Removes the version text in the corner of the screen",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/1009803987140218981/NoVersionText.jar",
         "image": "assets/cards/no-version-text.png",
@@ -68,14 +68,14 @@
     }, {
         "labels": ["addon"],
         "title": "More Fuels",
-        "text": "Supports multiple fuel types, mostly wood-based",
+        "text": "Supports multiple fuel types, primarily wood-based materials",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/1007661370742935684/more_fuel_nsss_a1.1.11_111_v0.2.jar",
         "image": "assets/cards/more-fuels.png",
         "author": "Tara"
     }, {
         "labels": ["texturepack"],
         "title": "oCd Pack",
-        "text": "Port of the FVDisco oCd texture pack by gamerman1202",
+        "text": "Port of the FVDisco oCd texture pack",
         "url": "https://cdn.discordapp.com/attachments/724411799067295856/889029675647651890/oCdpack.zip",
         "image": "assets/cards/ocd-pack.png",
         "author": "gamerman1202"
