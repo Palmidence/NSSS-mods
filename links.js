@@ -25,7 +25,7 @@ const resources = createApp({
             <img :alt="resource.title" class="card-img-top" :src="resource.image">
             <div class="labels">
                 <span v-for="label of resource.labels" 
-                    class="badge" data-toggle="tooltip" data-placement="top" title="" :data-original-title="labels[label].display" 
+                    class="badge" data-toggle="tooltip" data-placement="top" title="" :data-original-title="labels[label].display"
                     :style="\`color: \` + labels[label].text_color + \`; background-color:\` + labels[label].label_color + \`;\`">
                     {{labels[label].display}}
                 </span>
@@ -35,7 +35,9 @@ const resources = createApp({
                 <p class="card-text">{{resource.text}}</p>
             </div>
             <div class="card-footer">
-                <a class="btn btn-primary" :href="resource.url">» Link</a>
+                <a :href="resource.url"><i class="fa-solid fa-2x fa-download" style="float: left;"></i></a>
+                <i class="fa-solid fa-2x fa-person" data-toggle="tooltip" :title="resource.author" style="float: none;"></i>
+                <i class="fa-solid fa-2x fa-tag" data-toggle="tooltip" :title="resource.version" style="float: right;"></i>
             </div>
         </div>
     </div>
