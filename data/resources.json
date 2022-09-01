@@ -19,7 +19,7 @@
             "display": "",
             "label_color": "rgb(0, 128, 128)",
             "text_color": "rgb(255, 255, 255)"
-        },
+        }
     },
     "items": [{
         "labels": ["addon"],
