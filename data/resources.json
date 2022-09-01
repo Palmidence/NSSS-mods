@@ -21,72 +21,84 @@
         "title": "Ears",
         "text": "Complete 1.9 skin backport with additional character customization features",
         "url": "https://ears.unascribed.com/",
-        "image": "assets/cards/ears.png"
+        "image": "assets/cards/ears.png",
+        "author": "Unascribed"
     }, {
         "labels": ["addon"],
         "title": "Fragile Mode",
         "text": "Half heart of health, modified UI; days survived tracker on death screen",
         "url": "https://github.com/LO6AN/MC-Addons/raw/main/NSSS/1.1.11/LilypadQA%20Fragile%20Mode%20%5BNSSS%201.1.11_111%5D.zip",
-        "image": "assets/cards/fragile-mode.png"
+        "image": "assets/cards/fragile-mode.png",
+        "author": "Logan"
     }, {
         "labels": ["addon"],
         "title": "Click Mining Fix",
         "text": "Removes the delay between breaking blocks when holding your mouse down",
         "url": "https://www.mediafire.com/file/j8ftfd7w8gggl5e/Click_Mining_Fix_for_NSSS_a1.1.11_10.zip/file",
-        "image": "assets/cards/click-mining-fix.png"
+        "image": "assets/cards/click-mining-fix.png",
+        "author": "AtomBlade"
     }, {
         "labels": ["addon"],
         "title": "BetterLight",
         "text": "Ports the smooth lighting engine out of the Beta 1.2_02 Minecraft version",
         "url": "https://github.com/LO6AN/MC-Addons/raw/main/NSSS/1.1.11/1.1.11_111%20BetterLight.zip",
-        "image": "assets/cards/better-light.png"
+        "image": "assets/cards/better-light.png",
+        "author": "Logan"
     }, {
         "labels": ["addon"],
         "title": "LilypadQA Creative Menu",
         "text": "Ports the creative block menu from LilypadQA to NSSS",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/987021825122922526/lilypadqa_creative_block_menu.zip",
-        "image": "assets/cards/creative-menu.png"
+        "image": "assets/cards/creative-menu.png",
+        "author": "icanttellyou"
     }, {
         "labels": ["addon"],
         "title": "256 Block Build Limit",
         "text": "Extends the world height of NSSS to 256 blocks",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/986286281388589086/256_block_world_height_nsss_a1.1.11_111_v0.1.jar",
-        "image": "assets/cards/256-height-limit.png"
+        "image": "assets/cards/256-height-limit.png",
+        "author": "jonkadelic"
     }, {
         "labels": ["addon"],
         "title": "NoVersionText",
         "text": "Removes the version text in the corner of the screen",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/1009803987140218981/NoVersionText.jar",
-        "image": "assets/cards/no-version-text.png"
+        "image": "assets/cards/no-version-text.png",
+        "author": "Vita"
     }, {
         "labels": ["addon"],
         "title": "More Fuels",
         "text": "Supports multiple fuel types, mostly wood-based",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/1007661370742935684/more_fuel_nsss_a1.1.11_111_v0.2.jar",
-        "image": "assets/cards/more-fuels.png"
+        "image": "assets/cards/more-fuels.png",
+        "author": "Tara"
     }, {
         "labels": ["texturepack"],
         "title": "oCd Pack",
         "text": "Port of the FVDisco oCd texture pack by gamerman1202",
         "url": "https://cdn.discordapp.com/attachments/724411799067295856/889029675647651890/oCdpack.zip",
-        "image": "assets/cards/ocd-pack.png"
+        "image": "assets/cards/ocd-pack.png",
+        "author": "gamerman1202"
     }, {
         "labels": ["texturepack"],
         "title": "Faithful NSSS Pack",
         "text": "Port of the Vattic Faithful texture pack by Vita",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/1005845867435143269/Faithful_for_NSSS.zip",
-        "image": "assets/cards/faithful-nsss-pack.png"
+        "image": "assets/cards/faithful-nsss-pack.png",
+        "author": "Vita"
     }, {
         "labels": ["texturepack"],
         "title": "Spring Pack",
         "text": "Every day is Spring with this texture pack by Vita",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/1008066043819864198/Spring.zip",
-        "image": "assets/cards/spring-pack.png"
+        "image": "assets/cards/spring-pack.png",
+        "author": "Vita"
     }, {
         "labels": ["texturepack"],
         "title": "Beta Foliage",
         "text": "Ports the Minecraft Beta foliage color palette",
         "url": "https://github.com/LO6AN/MC-Addons/raw/main/NSSS/1.1.11/Texturepacks/Beta%20Foliage%20for%20NSSS%201.1.11.zip",
-        "image": "assets/cards/beta-foliage.png"
+        "image": "assets/cards/beta-foliage.png",
+        "author": "Logan"
     }]
 }
