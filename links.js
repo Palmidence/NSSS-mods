@@ -35,7 +35,7 @@ const resources = createApp({
                 <p class="card-text">{{resource.text}}</p>
             </div>
             <div class="card-footer">
-                <a :href="resource.url"><i class="fa-solid fa-2x fa-download" style="float: left;"></i></a>
+                <a :href="resource.url" style="color: black;"><i class="fa-solid fa-2x fa-download" style="float: left;"></i></a>
                 <i class="fa-solid fa-2x fa-person" data-toggle="tooltip" :title="resource.author" style="float: none;"></i>
                 <i class="fa-solid fa-2x fa-tag" data-toggle="tooltip" :title="resource.version" style="float: right;"></i>
             </div>
