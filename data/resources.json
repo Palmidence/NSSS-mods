@@ -15,9 +15,49 @@
             "label_color": "grey",
             "text_color": ""
         },
-        "version": {
+        "1_1_3": {
             "display": "",
-            "label_color": "rgb(0, 128, 128)",
+            "label_color": "rgb(219, 73, 44)",
+            "text_color": "rgb(255, 255, 255)"
+        },
+        "1_1_4": {
+            "display": "",
+            "label_color": "rgb(219, 73, 44)",
+            "text_color": "rgb(255, 255, 255)"
+        },
+        "1_1_5": {
+            "display": "",
+            "label_color": "rgb(219, 73, 44)",
+            "text_color": "rgb(255, 255, 255)"
+        },
+        "1_1_6": {
+            "display": "",
+            "label_color": "rgb(219, 73, 44)",
+            "text_color": "rgb(255, 255, 255)"
+        },
+        "1_1_7": {
+            "display": "",
+            "label_color": "rgb(219, 73, 44)",
+            "text_color": "rgb(255, 255, 255)"
+        },
+        "1_1_8": {
+            "display": "",
+            "label_color": "rgb(219, 73, 44)",
+            "text_color": "rgb(255, 255, 255)"
+        },
+        "1_1_9": {
+            "display": "",
+            "label_color": "rgb(219, 73, 44)",
+            "text_color": "rgb(255, 255, 255)"
+        },
+        "1_1_10": {
+            "display": "",
+            "label_color": "rgb(219, 73, 44)",
+            "text_color": "rgb(255, 255, 255)"
+        },
+        "1_1_11": {
+            "display": "",
+            "label_color": "rgb(44, 219, 84)",
             "text_color": "rgb(255, 255, 255)"
         }
     },
