@@ -43,9 +43,27 @@
     }, {
         "labels": ["addon"],
         "title": "LilypadQA Creative Menu",
-        "text": "ports the block menu from LilypadQA to NSSS",
+        "text": "Ports the creative block menu from LilypadQA to NSSS",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/987021825122922526/lilypadqa_creative_block_menu.zip",
         "image": "assets/cards/creative-menu.png"
+    }, {
+        "labels": ["addon"],
+        "title": "256 Block Build Limit",
+        "text": "Extends the world height of NSSS to 256 blocks",
+        "url": "https://cdn.discordapp.com/attachments/734163557721047100/986286281388589086/256_block_world_height_nsss_a1.1.11_111_v0.1.jar",
+        "image": "assets/cards/256-height-limit.png"
+    }, {
+        "labels": ["addon"],
+        "title": "NoVersionText",
+        "text": "Removes the version text in the corner of the screen",
+        "url": "https://cdn.discordapp.com/attachments/734163557721047100/1009803987140218981/NoVersionText.jar",
+        "image": "assets/cards/no-version-text.png"
+    }, {
+        "labels": ["addon"],
+        "title": "More Fuels",
+        "text": "Supports multiple fuel types, mostly wood-based",
+        "url": "https://cdn.discordapp.com/attachments/734163557721047100/1007661370742935684/more_fuel_nsss_a1.1.11_111_v0.2.jar",
+        "image": "assets/cards/more-fuels.png"
     }, {
         "labels": ["texturepack"],
         "title": "oCd Pack",
