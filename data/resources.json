@@ -41,6 +41,12 @@
         "url": "https://github.com/LO6AN/MC-Addons/raw/main/NSSS/1.1.11/1.1.11_111%20BetterLight.zip",
         "image": "assets/cards/better-light.png"
     }, {
+        "labels": ["addon"],
+        "title": "LilypadQA Creative Menu",
+        "text": "ports the block menu from LilypadQA to NSSS",
+        "url": "https://github.com/LO6AN/MC-Addons/raw/main/NSSS/1.1.11/1.1.11_111%20BetterLight.zip",
+        "image": "assets/cards/better-light.png"
+    }, {
         "labels": ["texturepack"],
         "title": "oCd Pack",
         "text": "Port of the FVDisco oCd texture pack by gamerman1202",
@@ -58,5 +64,11 @@
         "text": "Every day is Spring with this texture pack by Vita",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/1008066043819864198/Spring.zip",
         "image": "assets/cards/spring-pack.png"
+    }, {
+        "labels": ["texturepack"],
+        "title": "Beta Foliage",
+        "text": "Ports the Minecraft Beta foliage color palette",
+        "url": "https://github.com/LO6AN/MC-Addons/raw/main/NSSS/1.1.11/Texturepacks/Beta%20Foliage%20for%20NSSS%201.1.11.zip",
+        "image": "assets/cards/beta-foliage.png"
     }]
 }
