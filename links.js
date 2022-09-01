@@ -20,7 +20,7 @@ const resources = createApp({
         }
     },
     template: `
-    <div class="col-lg-3 col-md-3 mb-2" v-for="resource of items"> 
+    <div class="col-lg-3 col-md-3 mb-2" style="margin-top: 30px;" v-for="resource of items"> 
         <div class="card card-home">
             <img :alt="resource.title" class="card-img-top" :src="resource.image">
             <div class="labels">
