@@ -147,6 +147,13 @@
         "author": "Vita"
     }, {
         "labels": ["texturepack"],
+        "title": "Pocket Edition Foliage",
+        "text": "Makes world foliage look like old Pocket Edition",
+        "url": "https://cdn.discordapp.com/attachments/734163557721047100/905163954924425266/NSSS_Pocket_Editon_Foliage.zip",
+        "image": "assets/cards/pocket-edition-foliage.png",
+        "author": "Silver"
+    }, {
+        "labels": ["texturepack"],
         "title": "Spring Pack",
         "text": "Every day is Spring with this texture pack by Vita",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/1008066043819864198/Spring.zip",
