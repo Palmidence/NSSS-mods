@@ -133,6 +133,13 @@
         "author": "gamerman1202"
     }, {
         "labels": ["texturepack"],
+        "title": "Better Tiling",
+        "text": "Changes the cobblestone texture to the b1.7 one",
+        "url": "https://cdn.discordapp.com/attachments/734163557721047100/900016651699908628/BetterCobble.zip",
+        "image": "assets/cards/better-tiling.png",
+        "author": "Delio"
+    }, {
+        "labels": ["texturepack"],
         "title": "Faithful NSSS Pack",
         "text": "Port of the Vattic Faithful texture pack by Vita",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/1005845867435143269/Faithful_for_NSSS.zip",
