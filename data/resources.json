@@ -62,7 +62,7 @@
         }
     },
     "items": [{
-        "labels": ["addon", "1_1_11", "1_1_10", "1_1_9", "1_1_8", "1_1_7", "1_1_6", "1_1_5", "1_1_4", "1_1_3"],
+        "labels": ["addon"],
         "title": "Ears",
         "text": "Complete 1.9 skin backport with additional character customization features",
         "url": "https://ears.unascribed.com/",
@@ -113,10 +113,17 @@
     }, {
         "labels": ["addon"],
         "title": "More Fuels",
-        "text": "Supports multiple fuel types, primarily wood-based materials",
+        "text": "Supports multiple fuel types, primarily wood-based",
         "url": "https://cdn.discordapp.com/attachments/734163557721047100/1007661370742935684/more_fuel_nsss_a1.1.11_111_v0.2.jar",
         "image": "assets/cards/more-fuels.png",
         "author": "Tara"
+    }, {
+        "labels": ["addon"],
+        "title": "Biospheres",
+        "text": "Backports Risugami's Biospheres mod",
+        "url": "https://cdn.discordapp.com/attachments/734163557721047100/1015364845002035270/Biospheres-NSSS1.1.11_111.zip",
+        "image": "assets/cards/biospheres.png",
+        "author": "icanttellyou"
     }, {
         "labels": ["texturepack"],
         "title": "oCd Pack",
